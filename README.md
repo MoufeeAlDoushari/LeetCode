@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0118-pascals-triangle) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0066-plus-one](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
