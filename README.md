@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
