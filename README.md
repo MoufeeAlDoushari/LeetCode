@@ -36,6 +36,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0035-search-insert-position) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
