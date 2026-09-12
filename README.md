@@ -39,6 +39,7 @@
 | [0119-pascals-triangle-ii](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
