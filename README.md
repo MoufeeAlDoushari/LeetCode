@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
