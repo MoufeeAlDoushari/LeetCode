@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +98,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
