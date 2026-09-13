@@ -39,6 +39,7 @@
 | [0119-pascals-triangle-ii](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
