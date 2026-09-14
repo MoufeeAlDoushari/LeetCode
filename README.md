@@ -44,6 +44,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +128,5 @@
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
