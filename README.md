@@ -45,6 +45,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +132,5 @@
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 <!---LeetCode Topics End-->
