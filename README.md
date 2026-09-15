@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -79,6 +80,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
