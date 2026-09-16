@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MoufeeAlDoushari/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0704-binary-search/) | Easy |
