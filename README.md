@@ -20,6 +20,7 @@
 | [0344-reverse-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
