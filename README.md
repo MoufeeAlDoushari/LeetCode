@@ -53,6 +53,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 <!---LeetCode Topics End-->
