@@ -21,6 +21,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Hash Table
@@ -65,6 +67,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -150,11 +153,13 @@
 | [0692-top-k-frequent-words](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
