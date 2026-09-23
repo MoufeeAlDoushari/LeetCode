@@ -53,6 +53,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -67,6 +68,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Math
@@ -92,6 +94,7 @@
 | [0704-binary-search](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@
 | [0724-find-pivot-index](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2706-buy-two-chocolates](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoufeeAlDoushari/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
